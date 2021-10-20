@@ -6,10 +6,10 @@
   The formula used to calculate fixed monthly repayment is based on the annuity formula and is represented as:<br>
 
     Fixed monthly repayment=p×r×(1+r)n(1+r)n−1
-    Where,<br>
-            p : The principal outstanding loan amount.<br>
-            r : The interest rate per month.<br>
-            n : The tenure of the loan in months.<br>
+    Where,
+            p : The principal outstanding loan amount.
+            r : The interest rate per month.
+            n : The tenure of the loan in months.
 </p>       
 <p>
   For every type loan, the calculations are different based on a lot of financial factors.<br>
@@ -17,7 +17,8 @@
   The formula above is the first part of the Morgage Formula.<br>
   The second part is used to find Outstanding Loan Balance after certain months.<br>
   The formula for calculating the Outstanding Loan Balance after  m  months is given as:<br>
-    Outstanding Loan Balance=p×(1+r)n−(1+r)m(1+r)n−1<br>
-    Where,<br>
-            m : The number of months after which the Outstanding Loan Balance is calculated.<br>
+  
+    Outstanding Loan Balance=p×(1+r)n−(1+r)m(1+r)n−1
+    Where,
+            m : The number of months after which the Outstanding Loan Balance is calculated.
 </p>
